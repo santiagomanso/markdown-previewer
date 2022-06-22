@@ -1,16 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgb(230, 209, 242) !important;
 }
 
-.app{
-  height: 60%;
-  background-color: yellowgreen;
-  height: 100vh;
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+h1{
+  font-family: 'JetBrains', monospace;
 }
-
